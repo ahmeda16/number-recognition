@@ -1,2 +1,2 @@
-# number-recognition
-UMAI 2023 Workshop
+# UMAI 2023 Workshop
+
